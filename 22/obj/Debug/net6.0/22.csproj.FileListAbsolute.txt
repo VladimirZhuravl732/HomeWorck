@@ -1,0 +1,16 @@
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\bin\Debug\net6.0\22.exe
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\bin\Debug\net6.0\22.deps.json
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\bin\Debug\net6.0\22.runtimeconfig.json
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\bin\Debug\net6.0\22.dll
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\bin\Debug\net6.0\ref\22.dll
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\bin\Debug\net6.0\22.pdb
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.GlobalUsings.g.cs
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.dll
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\ref\22.dll
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.pdb
+C:\Users\Сергей\Desktop\РАЗРАБОТЧИК\4 блок\Задачи\22\obj\Debug\net6.0\22.genruntimeconfig.cache
