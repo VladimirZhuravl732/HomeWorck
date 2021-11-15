@@ -3,7 +3,7 @@
 int number = 1;
 int N = 10;
 
-while (number < N)
+while (number <= N)
 {
     int Square = number * number;
     System.Console.Write(number + " " + "квадрат числа");
