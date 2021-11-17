@@ -1,13 +1,15 @@
 ﻿// Написать программу замену элементов массива на противоположные
-int[] Array = new int[10];
-int result = 0;
-//int res = 0;
-for (int i = 0; i < Array.Length; i++)
+int[] ReplacingArray(int index)
 {
-    result = new Random().Next(-5, 10);
-    System.Console.Write(result + " ");
-    //res = result * (-1);
-    System.Console.WriteLine(" " + result * (-1));
-}
+      int[] Array = new int[index];
 
+      for (int i = 0; i < index; i++)
+     {
+       Array[i] = new Random().Next(-5, 10);
+       System.Console.Write(Array[i] + " ");
+       System.Console.WriteLine(" " + Array[i] * (-1));
+     }
+     return Array;
+}
+ReplacingArray(8);
 

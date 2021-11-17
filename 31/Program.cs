@@ -1,8 +1,13 @@
 ﻿// Задать массив из 8 элементов и вывести их на экран
 
-int[] Array=new int [8];
-for (int i =0; i<=Array.Length; i++)
+int[] CreateArray(int index)
 {
-    int result = new Random().Next(10,100);
-    System.Console.WriteLine(result);
+    int[] Array = new int[index];
+    for (int i = 0; i < index; i++)
+    {
+        Array[i] = new Random().Next(10, 100);
+        Console.WriteLine(Array[i] + " ");
+    }
+    return Array;
 }
+CreateArray(8);

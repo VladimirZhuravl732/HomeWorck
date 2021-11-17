@@ -1,14 +1,10 @@
 ﻿// Написать программу вычисления произведения чисел от 1 до N
 
-int number = 1;
 int N = 3;
 int res = 1;
-while (number <= N)
+for (int number = 1; number <= N; number++)     
 {
-    System.Console.Write(number + " ");
+    System.Console.WriteLine(number + " ");
     res = res * number;
-    
-    System.Console.WriteLine(res);
-    number++;
 }
-
+System.Console.WriteLine("Произведение чисел" + " " + res);

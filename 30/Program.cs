@@ -5,12 +5,12 @@ int N = 10;
 
 while (number <= N)
 {
-    int result= number*number*number;
-    if (result % 2 ==0)
+    int result = number * number * number;
+    if (result % 2 == 0)
     {
-          System.Console.WriteLine($"Куб числа {number} = {result}");
+        System.Console.WriteLine($"Куб числа {number} = {result}");
     }
-    
+
     number++;
 }
 
