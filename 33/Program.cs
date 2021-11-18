@@ -6,6 +6,7 @@ int SumNeg = 0;
 for (int i = 0; i < Array.Length; i++)
 {
     int result = new Random().Next(-5, 10);
+    System.Console.WriteLine(result + " ");
     if (result > 0)
     {
         SumPos = result + SumPos;
